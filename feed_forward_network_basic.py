@@ -1,5 +1,5 @@
 #   Feed Forward Lab for Artificial Intelligence, Language: Python
-#   Alexis Echano
+#   Created and Programmed by Alexis Echano 
 #    
 #   PURPOSE: demonstrates how a basic neural network can take in inputs along with pre-set weights to calculate a basic math equation
 
