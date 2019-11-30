@@ -1,5 +1,5 @@
 #   Back Propagation Lab for Artificial Intelligence, Language: Python
-#   Alexis Echano 
+#   Created and Programmed by Alexis Echano 
 #   
 #   PURPOSE: demonstrate how a more complex backpropagation neural network works
 
